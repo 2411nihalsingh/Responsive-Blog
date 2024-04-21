@@ -65,7 +65,7 @@
          }
 
          .blog-card{ 
-            width:calc((100% - 256px)/3);
+            width:calc((100% - 26px)/3);
         }
     }
 
